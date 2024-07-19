@@ -1,2 +1,2 @@
 # Python-Contents
-This is a repository for managing Python learning.
+This is the repository for managing Python learning.
